@@ -2,7 +2,7 @@
 
 # Throttle interval and request limit can be also entered in config.php
 
-# API key should be present in the header info api_key = 'JelPtruDRmghgnCKfG0WDJ9OM6RpyqdG' -> This is stored in DB. As many api key can be added to db.
+# API key should be present in the header info api_key = 'JelPtruDRmghgnCKfG0WDJ9OM6RpyqdG' -> This is stored in DB. As many api key can be added to db. Throttle restriction is applied on top of api key
 
 
 # Access Methods - URL given below is working and the domain can be changed to your hosting domain
