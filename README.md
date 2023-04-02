@@ -1,6 +1,6 @@
 # Database configuration should be entered in the file config.php
 
-#Throttle interval and request limit can be also entered in config.php
+# Throttle interval and request limit can be also entered in config.php
 
 # API key should be present in the header info api_key = 'JelPtruDRmghgnCKfG0WDJ9OM6RpyqdG' -> This is stored in DB. As many api key can be added to db.
 
